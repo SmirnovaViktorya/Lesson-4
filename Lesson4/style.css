@@ -1,0 +1,176 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.sectionAwesome {
+    padding-top: 102px;
+    padding-bottom: 111px;
+    text-align: center;
+}
+
+.sectionPricingOptions {
+    padding-top: 102px;
+    padding-bottom: 111px;
+    text-align: center;
+    background-color: #F5F5F5;
+}
+
+.sectionStylishDesign {
+    padding: 54px 0px;
+    background: linear-gradient(
+        rgba(51, 51, 51, 0.58), 
+        rgba(51, 51, 51, 0.58)), 
+        url("images/town.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.sectionWrapper {
+    margin-bottom: 66px;
+}
+
+.itemsWrapper {
+    width: 80%;
+    max-width: 1150px;
+    margin: 0 auto;
+}
+
+.PricingOptionsWrapper {
+    margin-bottom: 81px;
+}
+
+.StylishDesignWrapper {
+    margin-bottom: 38px;
+}
+
+
+.line {
+    width: 64px;
+    height: 2px;
+    margin: 22px auto;
+    background-color: #FF8B38;
+}
+
+.whiteLine {
+    background-color: white;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: normal;
+}
+
+.item {
+    display: inline-block;
+    width: 30%;
+}
+
+.list {
+    padding: 0px;
+    display: inline-block;
+    width: 30%;
+    list-style-type: none;
+}
+
+.m-rl-33 {
+    margin: 0 33px;
+}
+
+.m-rl-40 {
+    margin: 0 40px;
+}
+
+.itemImage {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 27px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
+}
+
+.lamp {
+    background-image: url("images/lamp.jpg");
+}
+
+.keyboard {
+    background-image: url("images/keyboard.jpg");
+}
+
+.lightning {
+    background-image: url("images/lightning.jpg");
+}
+
+.itemTitle {
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 14px;
+    color: #86878B;
+}
+
+.listType {
+    padding: 18px 0;
+    margin-bottom: 1px;
+    background-color: #333333;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.listPrice {
+    padding: 38px 0;
+    margin-bottom: 1px;
+    background-color: #333333;
+    font-weight: bold;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+
+.listSubscription {
+    padding: 13px 0;
+    background-color: #333333;
+    font-size: 14px;
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.popularType {
+    padding: 8px 0;
+    background-color: #FF8B38;
+    font-weight: bold;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+.empty {
+    padding: 2.5px;
+}
+
+.packageParameters {
+    margin-bottom: 2px;
+    padding: 8px 0;
+    background-color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #86878B;
+}
+
+.whiteStyle {
+    color: #FFFFFF;
+}
+
+.downloadButton {
+    padding: 12px 30px;
+    border: 1px solid #FFFFFF;
+    border-radius: 4px;
+    background-color: transparent;
+    font-size: 15px;
+    color: white;
+}
